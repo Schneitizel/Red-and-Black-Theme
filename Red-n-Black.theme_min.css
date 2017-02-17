@@ -1,5 +1,9 @@
 {} 
 
+.radio-theme.light label,
+.radio-theme.dark label{
+    background-image: url(https://puu.sh/u6Nun/b252f62022.png) !important; /* IMPORTANT: Link must be HTTPS! */
+}
 /* Backgrounds */
 
 .app,
